@@ -1,0 +1,20 @@
+✨ <b>Suas Informações</b>
+
+<i>- Aqui você pode visualizar os detalhes da sua conta.</i>
+
+
+- 💰 <b>Carteira:</b>
+🆔 <b>ID da carteira:</b> <code>{id}</code>
+💸 <b>Saldo:</b> <code>R${saldo}</code>
+
+
+- 🏆 <b>Indicação:</b>
+🥇 <b>Pontos de indicação:</b> <code>{pontos_indicacao}</code>
+🏆 <b>Pessoas que você indicou:</b> <code>{quantidade_afiliados}</code>
+💰 <b>link de indicação:</b> {link_afiliado}
+
+
+- 🛍 <b>Compras:</b>
+🛒 <b>Logins comprados:</b> <code>{quantidade_compras}</code>
+💠 <b>Pix inseridos:</b> <code>R${pix_inseridos}</code>
+🎁 <b>Gifts resgatados:</b> <code>R${gifts_resgatados}</code>

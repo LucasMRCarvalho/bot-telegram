@@ -1,0 +1,23 @@
+{
+    "maintance": "off",
+    "version": "3.0.1",
+    "id_dono": "6962068872",
+    "user_bot": "fanexty_bot",
+    "api-bot": "7515736931:AAHzvZxI_bY9wJajRPm_IBJHJtBPWcYccW0",
+    "separador": "===",
+    "token_mp": "APP_USR-3989781096380881-021710-8f70a0a58bb51276b0557b9f6abe2570-440418882",
+    "vencimento_bot": "01/12/2024",
+    "link_suporte": "",
+    "status_pix_manu": "off",
+    "status_pix_auto": "on",
+    "bonus_registro": 0.0,
+    "bonus_pix": 0,
+    "bonus_pix_min": 300,
+    "min_pix": 2.0,
+    "max_pix": 250.0,
+    "afiliados": "on",
+    "expiracao_pix": 15,
+    "pontos_by_indicate_buy": 1,
+    "min_points_saldo": 10,
+    "multiplicador_pontos": 0.5
+}

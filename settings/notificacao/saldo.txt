@@ -1,0 +1,16 @@
+💠 <b>SALDO ADICIONADO VIA PIX AUTOMATICO!</b> 💠
+
+🆔  <b>ID DO USUARIO:</b> {id}
+
+💰 <b>VALOR:</b> R${saldo},00
+
+🔑 <b>ID DO PAGAMENTO:</b> 67484773
+
+
+<b>VENHA ADQUIRIR O MELHOR MATERIAL DA NET!</b>
+
+ATENDIMENTO 100% AUTOMÁTICO!
+
+<b>Este é o BOT, mande qualquer mensagem!:</b>
+
+@geradordestreaming_bot

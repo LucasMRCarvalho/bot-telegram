@@ -1,0 +1,5 @@
+⚜ <b>LOGIN {nome_servico}</b> ⚜
+
+💰 <b>PREÇO:</b> R${valor}
+💳 <b>SEU SALDO:</b> R${saldo}
+📦 <b>ESTOQUE:</b> {estoque}

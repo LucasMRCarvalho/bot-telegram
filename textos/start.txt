@@ -1,0 +1,19 @@
+<a href="https://media.discordapp.net/attachments/1279528948954566679/1293371907575513182/banner.png?ex=670721f4&is=6705d074&hm=d8f2a4780f66f4d9fb6998facaa721d5fd1ce02e58d8607ad2b67e6332afc746&=&format=webp&quality=lossless&width=350&height=350"> </a> <b>BEM VINDO (A) AO FANEXTY STORE!🌟</b>
+
+Prepare-se para uma experiência incrível no mundo do streaming! 📺🎉
+
+Antes de adicionar saldo, garanta que o que deseja comprar esteja disponível! ✅
+
+<b>❌ Lembre-se: Não realizamos reembolsos. Portanto, escolha com cuidado! ⚠️</b>
+
+Explore nossas regras de suporte com atenção, para uma experiência sem contratempos. 📋
+
+<b>Nosso suporte estará à sua disposição dentro de um prazo de 24h a 48h</b>
+
+➖➖➖➖➖
+🧾 <b>Seu perfil:</b>
+├👤 <b>NOME:</b> {first_name}
+├👤 <b>USERNAME:</b> {username}
+├🆔️ <b>ID:</b> <code>{id}</code>
+├💸 <b>Saldo:</b> R${saldo}
+└🥇 <b>Pontos de indicação:</b> {pontos_indicacao}

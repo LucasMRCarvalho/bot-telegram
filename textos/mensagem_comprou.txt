@@ -1,0 +1,28 @@
+🥳 <b>COMPRA REALIZADA COM SUCESSO</b> 🥳
+
+💰 <b>SALDO ATUAL</b> <code>{saldo}</code>
+💰 <b>VALOR PAGO</b> {valor},00
+
+
+<b>=======================</b>
+
+
+🛍 <b>{nome}</b> 🛍
+
+⏰ <b>DIAS PARA VENCER:</b> {duracao} <b>DIAS</b>
+
+🗓 <b>DATA DA COMPRA:</b> <code>{data_sem_horario}</code>
+🗓 <b>DATA VENCIMENTO:</b> <code>{data_vencimento}</code>
+
+🆔 <b>ID DA COMPRA:</b> <code>{codigo_acesso}</code>
+
+
+📧 <b>EMAIL/CPF:</b> <code>{email}</code>
+🔑 <b>SENHA:</b> <code>{senha}</code>
+
+
+
+<b>OBRIGADO PELA PREFERÊNCIA!</b>
+
+<b>ℹ️ Informações Adicionais:</b>
+{descricao}

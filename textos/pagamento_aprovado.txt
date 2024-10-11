@@ -1,0 +1,4 @@
+✅ <b>Pagamento aprovado</b>
+
+🆔 <b>Id do pagamento:</b> {id_pagamento}
+💸 <b>Saldo atual:</b> R$ {saldo}

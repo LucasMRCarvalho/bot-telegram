@@ -1,0 +1,11 @@
+{
+    "status_notify": "on",
+    "id_grupo": 162726413,
+    "tipo_texto": 0,
+    "time_min_compras": 400,
+    "time_max_compras": 550,
+    "time_min_saldo": 60,
+    "time_max_saldo": 600,
+    "saldo_min": 2,
+    "saldo_max": 35
+}
