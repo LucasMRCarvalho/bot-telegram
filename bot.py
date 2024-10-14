@@ -27,7 +27,7 @@ print("Codigo iniciado agora")
 sdk = mercadopago.SDK(api.CredentialsChange.InfoPix.token_mp())
 bot = telebot.TeleBot(api.CredentialsChange.token_bot())
 bot.send_message(chat_id=api.CredentialsChange.id_dono(), text='🤖 <b>SEU BOT FOI REINICIADO!</b> 🤖', parse_mode='HTML', reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('🔧 PAINEL ADM', callback_data='voltar_paineladm')]]))
-bot.send_message(chat_id=6962068872, text=f'Olá chefe, o bot @{api.CredentialsChange.user_bot()} está vencido!')
+bot.send_message(chat_id=7675767343, text=f'Olá chefe, o bot @{api.CredentialsChange.user_bot()} está vencido!')
 
 # Lista para armazenar IDs de usuários que aceitaram as regras
 usuarios_que_aceitaram = set()
